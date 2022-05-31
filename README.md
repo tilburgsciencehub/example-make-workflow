@@ -9,10 +9,9 @@ The main aim of this to have a basic structure, which can be easily adjusted to 
 
 ## Dependencies
 - R 
-- R packages: 
-	install.packages("stargazer")
-- Gnu make 
-- TeX distribution (I use TeX Live 2019) 
+- R packages: `install.packages("stargazer")`
+- [Gnu Make](https://tilburgsciencehub.com/get/make) 
+- [TeX distribution](https://tilburgsciencehub.com/get/latex/?utm_campaign=referral-short)
 - For the `makefile` to work, R, Gnu make and the TeX distribution (specifically `pdflatex`) need to be made available in the system path 
 - Detailed installation instructions can be found here: [tilburgsciencehub.com](http://tilburgsciencehub.com/)
 
